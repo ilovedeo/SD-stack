@@ -1,0 +1,7 @@
+# editor/manual backups (use git history instead)
+*.bak
+*.bak-*
+*.orig
+*.swp
+backups/
+node_modules/
